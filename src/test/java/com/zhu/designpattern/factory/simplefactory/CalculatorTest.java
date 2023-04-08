@@ -1,9 +1,7 @@
 package com.zhu.designpattern.factory.simplefactory;
 
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertThrows;
 
 /**
  * @description: Calculator
@@ -21,6 +19,7 @@ public class CalculatorTest {
         operation = OperationFactory.createOperation(operator);
         operation.numA = 2.4;
         operation.numB = 1.2;
+        System.out.println(operation.result());
         assertEquals(3.6, operation.result());
     }
 
@@ -32,6 +31,7 @@ public class CalculatorTest {
         operation.numB = 1.2;
         assertEquals(1.2, operation.result());
     }
+
 
 
 }

@@ -1,5 +1,7 @@
 package com.zhu.designpattern.factory.simplefactory;
 
+import com.zhu.designpattern.factory.simplefactory.*;
+
 /**
  * @description: OperationFactory 操作工厂类
  * @date: 2023/4/7 19:26
