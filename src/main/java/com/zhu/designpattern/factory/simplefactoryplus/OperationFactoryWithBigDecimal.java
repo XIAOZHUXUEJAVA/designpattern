@@ -1,5 +1,9 @@
 package com.zhu.designpattern.factory.simplefactoryplus;
 
+/*
+ * 工厂模式解决了对象创建的问题，不同的操作创建不同的对象
+ *
+ */
 public class OperationFactoryWithBigDecimal {
 
     public static OperationWithBigDecimal createOperation(char operator) {
