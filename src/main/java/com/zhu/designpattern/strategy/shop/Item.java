@@ -1,7 +1,4 @@
-package com.zhu.designpattern.strategy;
-
-import com.sun.org.glassfish.gmbal.Description;
-import com.sun.xml.internal.bind.v2.TODO;
+package com.zhu.designpattern.strategy.shop;
 
 import java.math.BigDecimal;
 

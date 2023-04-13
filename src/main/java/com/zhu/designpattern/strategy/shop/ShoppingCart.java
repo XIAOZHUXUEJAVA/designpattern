@@ -1,9 +1,8 @@
-package com.zhu.designpattern.strategy;
+package com.zhu.designpattern.strategy.shop;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.PriorityQueue;
 
 /**
  * @description: ShoppingCart

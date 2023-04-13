@@ -1,4 +1,4 @@
-package com.zhu.designpattern.strategy;
+package com.zhu.designpattern.strategy.shop;
 
 import java.math.BigDecimal;
 

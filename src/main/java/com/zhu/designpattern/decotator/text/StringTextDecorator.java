@@ -14,7 +14,4 @@ public abstract class StringTextDecorator implements StringComponent {
     public StringTextDecorator(StringComponent component) {
         this.component = component;
     }
-
-
-
 }
