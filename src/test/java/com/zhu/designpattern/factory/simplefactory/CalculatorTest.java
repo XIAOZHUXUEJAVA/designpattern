@@ -1,5 +1,7 @@
 package com.zhu.designpattern.factory.simplefactory;
 
+import com.zhu.designpattern.creational.factory.simplefactory.operation.Operation;
+import com.zhu.designpattern.creational.factory.simplefactory.operation.OperationFactory;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

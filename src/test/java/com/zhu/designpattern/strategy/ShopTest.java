@@ -1,6 +1,6 @@
 package com.zhu.designpattern.strategy;
 
-import com.zhu.designpattern.strategy.shop.*;
+import com.zhu.designpattern.behavioral.strategy.shop.*;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
