@@ -2,7 +2,7 @@ package com.zhu.designpattern.creational.factory.simplefactory.operation;
 
 
 /**
- * @description: OperationFactory 操作工厂类
+ * @description: OperationFactory
  * @date: 2023/4/7 19:26
  * @author: zdp
  * @version: 1.0
@@ -25,7 +25,7 @@ public class OperationFactory {
                 operation = new OperationDiv();
                 break;
             default:
-                throw new IllegalArgumentException("unsupported operation");
+                throw new IllegalArgumentException("Invalid operator type: " + operator);
         }
         return operation;
     }

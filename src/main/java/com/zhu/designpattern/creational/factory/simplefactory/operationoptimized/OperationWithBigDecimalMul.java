@@ -1,4 +1,4 @@
-package com.zhu.designpattern.creational.factory.simplefactoryplus;
+package com.zhu.designpattern.creational.factory.simplefactory.operationoptimized;
 
 
 import java.math.BigDecimal;

@@ -9,8 +9,8 @@ package com.zhu.designpattern.creational.factory.simplefactory.operation;
 public class OperationDiv extends Operation {
     @Override
     public double result() {
-        if (numB == 0) {
-            throw new IllegalArgumentException("divided by 0");
+        if (0 == numB) {
+            throw new ArithmeticException("The divisor is zero");
         }
         return numA / numB;
     }

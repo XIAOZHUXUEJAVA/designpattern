@@ -9,6 +9,6 @@ package com.zhu.designpattern.creational.factory.simplefactory.payment;
 public class Alipay implements Payment {
     @Override
     public void pay() {
-        System.out.println("使用支付宝支付");
+        System.out.println("Pay with Alipay");
     }
 }

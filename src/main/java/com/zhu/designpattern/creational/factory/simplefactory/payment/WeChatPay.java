@@ -9,6 +9,6 @@ package com.zhu.designpattern.creational.factory.simplefactory.payment;
 public class WeChatPay implements Payment {
     @Override
     public void pay() {
-        System.out.println("使用微信支付");
+        System.out.println("Pay with WeChat");
     }
 }

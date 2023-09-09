@@ -9,6 +9,6 @@ package com.zhu.designpattern.creational.factory.simplefactory.payment;
 public class CreditCardPay implements Payment {
     @Override
     public void pay() {
-        System.out.println("使用信用卡支付");
+        System.out.println("Pay with creditCard");
     }
 }

@@ -1,4 +1,4 @@
-package com.zhu.designpattern.creational.factory.simplefactoryplus;
+package com.zhu.designpattern.creational.factory.simplefactory.operationoptimized;
 
 /*
  * 工厂模式解决了对象创建的问题，不同的操作创建不同的对象

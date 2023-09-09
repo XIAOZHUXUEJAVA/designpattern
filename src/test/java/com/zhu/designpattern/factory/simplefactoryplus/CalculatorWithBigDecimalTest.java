@@ -1,7 +1,7 @@
 package com.zhu.designpattern.factory.simplefactoryplus;
 
-import com.zhu.designpattern.creational.factory.simplefactoryplus.OperationFactoryWithBigDecimal;
-import com.zhu.designpattern.creational.factory.simplefactoryplus.OperationWithBigDecimal;
+import com.zhu.designpattern.creational.factory.simplefactory.operationoptimized.OperationFactoryWithBigDecimal;
+import com.zhu.designpattern.creational.factory.simplefactory.operationoptimized.OperationWithBigDecimal;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
