@@ -1,4 +1,4 @@
-package com.zhu.designpattern.creational.factory.abstractfactory;
+package com.zhu.designpattern.creational.factory.abstractfactory.demo;
 
 /**
  * @description: ConcreteFactory1 具体工厂1

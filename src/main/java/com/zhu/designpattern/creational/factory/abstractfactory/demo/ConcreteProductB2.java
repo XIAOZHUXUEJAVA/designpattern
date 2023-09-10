@@ -1,4 +1,4 @@
-package com.zhu.designpattern.creational.factory.abstractfactory;
+package com.zhu.designpattern.creational.factory.abstractfactory.demo;
 
 /**
  * @description: ConcreteProductB2 具体产品B2

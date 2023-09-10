@@ -1,4 +1,4 @@
-package com.zhu.designpattern.creational.factory.methodfactory;
+package com.zhu.designpattern.creational.factory.methodfactory.demo;
 
 /**
  * @description: ConcreteProductB
